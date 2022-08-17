@@ -4,13 +4,7 @@
 
 layout: home
 ---
-## MY NAME IS
 # JAN PARISEK
-
-## I'M PRETTY THRILLED ABOUT SOME THINGS
-### Like electronics.
-### And computers.
-### And good design.
 
 Hey there! My name is **Jan Parisek**. I'm currently studying Computer Science in Darmstadt. I spend my time thinking, studying or working on various projects. This site is one of them.
 
